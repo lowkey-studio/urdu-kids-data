@@ -1,5 +1,103 @@
 [
  {
+  "id": "hamdardi",
+  "level": 3,
+  "e": "🐦",
+  "title": "ہمدردی",
+  "titleEn": "Hamdardi (Sympathy), by Allama Iqbal",
+  "ur": [
+   "ٹہنی پہ کسی شجر کی تنہا",
+   "بلبل تھا کوئی اداس بیٹھا",
+   "کہتا تھا کہ رات سر پہ آئی",
+   "اڑنے چگنے میں دن گزارا",
+   "پہنچوں کس طرح آشیاں تک",
+   "ہر چیز پہ چھا گیا اندھیرا",
+   "سن کر بلبل کی آہ و زاری",
+   "جگنو کوئی پاس ہی سے بولا",
+   "حاضر ہوں مدد کو جان و دل سے",
+   "کیڑا ہوں اگرچہ میں ذرا سا",
+   "کیا غم ہے جو رات ہے اندھیری",
+   "میں راہ میں روشنی کروں گا",
+   "اللہ نے دی ہے مجھ کو مشعل",
+   "چمکا کے مجھے دیا بنایا",
+   "ہیں لوگ وہی جہاں میں اچھے",
+   "آتے ہیں جو کام دوسروں کے"
+  ],
+  "ro": [
+   "Tehni pe kisi shajar ki tanha",
+   "Bulbul tha koi udaas baitha",
+   "Kehta tha ke raat sar pe aayi",
+   "Uṛne chugne mein din guzaara",
+   "Pahunchoon kis tarah aashiyaan tak",
+   "Har cheez pe chha gaya andhera",
+   "Sun kar bulbul ki aah o zaari",
+   "Jugnu koi paas hi se bola",
+   "Haazir hoon madad ko jaan o dil se",
+   "Keeṛa hoon agarche main zara sa",
+   "Kya gham hai jo raat hai andheri",
+   "Main raah mein roshni karoon ga",
+   "Allah ne di hai mujh ko mashal",
+   "Chamka ke mujhe diya banaaya",
+   "Hain log wohi jahaan mein achhe",
+   "Aate hain jo kaam doosron ke"
+  ],
+  "en": [
+   "Alone on the branch of a tree",
+   "a nightingale sat, sad.",
+   "It said: night has come upon me,",
+   "I spent the day flying and pecking for food.",
+   "How will I reach my nest?",
+   "Darkness has covered everything.",
+   "Hearing the nightingale's cries,",
+   "a firefly nearby spoke up:",
+   "I am here to help with all my heart,",
+   "though I am only a tiny insect.",
+   "Why worry that the night is dark?",
+   "I will light up the way.",
+   "God has given me a torch;",
+   "He made me shine like a lamp.",
+   "The good people in the world",
+   "are the ones who help others."
+  ],
+  "words": [
+   [
+    "شجر",
+    "shajar",
+    "tree"
+   ],
+   [
+    "آشیاں",
+    "aashiyaan",
+    "nest"
+   ],
+   [
+    "جگنو",
+    "jugnu",
+    "firefly"
+   ],
+   [
+    "مشعل",
+    "mashal",
+    "torch"
+   ],
+   [
+    "ہمدردی",
+    "hamdardi",
+    "sympathy, kindness"
+   ]
+  ],
+  "q": [
+   [
+    "بلبل کیوں اداس تھا؟",
+    "Why was the nightingale sad?"
+   ],
+   [
+    "جگنو نے بلبل کی مدد کیسے کی؟",
+    "How did the firefly help the nightingale?"
+   ]
+  ]
+ },
+ {
   "id": "lab-pe-aati-hai-dua",
   "level": 3,
   "e": "🕯️",

@@ -10,7 +10,7 @@ These files power [Takhti](https://takhti.appin60.com), a free printable Urdu wo
 | `numbers-1-100.json` | Urdu digit and number word for 1 to 100 (common spellings; a few vary between books) |
 | `word-pairs.json` | Opposites, singular and plural, masculine and feminine, with Roman Urdu and English |
 | `stories.json` | 12 short graded stories: each line in Urdu, Roman Urdu and English, five new words, two questions |
-| `poems.json` | Allama Iqbal's "Lab pe aati hai dua" (public domain) and the rhyme "Machhli jal ki rani hai", with translations |
+| `poems.json` | Allama Iqbal's "Lab pe aati hai dua" and "Hamdardi" (public domain) and the rhyme "Machhli jal ki rani hai", with translations |
 | `names.json` | Common children's names, Roman spelling to Urdu |
 
 ## Joined forms in one line
