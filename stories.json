@@ -1,0 +1,782 @@
+[
+ {
+  "id": "billi",
+  "level": 1,
+  "e": "🐈",
+  "title": "میری بلی",
+  "titleEn": "My cat",
+  "ur": [
+   "یہ میری بلی ہے۔",
+   "اس کا نام مانو ہے۔",
+   "مانو سفید ہے۔",
+   "مانو دودھ پیتی ہے۔",
+   "مجھے مانو اچھی لگتی ہے۔"
+  ],
+  "ro": [
+   "Yeh meri billi hai.",
+   "Is ka naam Mano hai.",
+   "Mano safaid hai.",
+   "Mano doodh peeti hai.",
+   "Mujhe Mano achhi lagti hai."
+  ],
+  "en": [
+   "This is my cat.",
+   "Her name is Mano.",
+   "Mano is white.",
+   "Mano drinks milk.",
+   "I like Mano."
+  ],
+  "words": [
+   [
+    "بلی",
+    "billi",
+    "cat"
+   ],
+   [
+    "نام",
+    "naam",
+    "name"
+   ],
+   [
+    "سفید",
+    "safaid",
+    "white"
+   ],
+   [
+    "دودھ",
+    "doodh",
+    "milk"
+   ],
+   [
+    "اچھی",
+    "achhi",
+    "good, nice"
+   ]
+  ],
+  "q": [
+   [
+    "بلی کا نام کیا ہے؟",
+    "What is the cat's name?"
+   ],
+   [
+    "مانو کیا پیتی ہے؟",
+    "What does Mano drink?"
+   ]
+  ]
+ },
+ {
+  "id": "seb",
+  "level": 1,
+  "e": "🍎",
+  "title": "لال سیب",
+  "titleEn": "The red apple",
+  "ur": [
+   "امی بازار گئیں۔",
+   "امی سیب لائیں۔",
+   "سیب لال ہے۔",
+   "سیب میٹھا ہے۔",
+   "میں نے سیب کھایا۔"
+  ],
+  "ro": [
+   "Ammi bazaar gayin.",
+   "Ammi saib laayin.",
+   "Saib laal hai.",
+   "Saib meetha hai.",
+   "Main ne saib khaaya."
+  ],
+  "en": [
+   "Mum went to the market.",
+   "Mum brought apples.",
+   "The apple is red.",
+   "The apple is sweet.",
+   "I ate an apple."
+  ],
+  "words": [
+   [
+    "امی",
+    "ammi",
+    "mum"
+   ],
+   [
+    "بازار",
+    "bazaar",
+    "market"
+   ],
+   [
+    "سیب",
+    "saib",
+    "apple"
+   ],
+   [
+    "لال",
+    "laal",
+    "red"
+   ],
+   [
+    "میٹھا",
+    "meetha",
+    "sweet"
+   ]
+  ],
+  "q": [
+   [
+    "امی کہاں گئیں؟",
+    "Where did Mum go?"
+   ],
+   [
+    "سیب کس رنگ کا ہے؟",
+    "What colour is the apple?"
+   ]
+  ]
+ },
+ {
+  "id": "baarish",
+  "level": 1,
+  "e": "🌧️",
+  "title": "بارش",
+  "titleEn": "Rain",
+  "ur": [
+   "آج بارش ہو رہی ہے۔",
+   "باہر پانی ہی پانی ہے۔",
+   "علی نے چھتری لی۔",
+   "علی باہر گیا۔",
+   "علی خوش ہے۔"
+  ],
+  "ro": [
+   "Aaj baarish ho rahi hai.",
+   "Baahar paani hi paani hai.",
+   "Ali ne chhatri li.",
+   "Ali baahar gaya.",
+   "Ali khush hai."
+  ],
+  "en": [
+   "It is raining today.",
+   "There is water everywhere outside.",
+   "Ali took an umbrella.",
+   "Ali went outside.",
+   "Ali is happy."
+  ],
+  "words": [
+   [
+    "آج",
+    "aaj",
+    "today"
+   ],
+   [
+    "بارش",
+    "baarish",
+    "rain"
+   ],
+   [
+    "پانی",
+    "paani",
+    "water"
+   ],
+   [
+    "چھتری",
+    "chhatri",
+    "umbrella"
+   ],
+   [
+    "خوش",
+    "khush",
+    "happy"
+   ]
+  ],
+  "q": [
+   [
+    "آج کیا ہو رہا ہے؟",
+    "What is happening today?"
+   ],
+   [
+    "علی نے کیا لیا؟",
+    "What did Ali take?"
+   ]
+  ]
+ },
+ {
+  "id": "nani-call",
+  "level": 1,
+  "e": "📱",
+  "title": "نانی کا فون",
+  "titleEn": "A call from Nani",
+  "ur": [
+   "نانی لاہور میں رہتی ہیں۔",
+   "ہم لندن میں رہتے ہیں۔",
+   "آج نانی کا فون آیا۔",
+   "میں نے کہا: السلام علیکم نانی!",
+   "نانی ہنس پڑیں۔"
+  ],
+  "ro": [
+   "Naani Lahore mein rehti hain.",
+   "Hum London mein rehte hain.",
+   "Aaj Naani ka phone aaya.",
+   "Main ne kaha: Assalam o alaikum Naani!",
+   "Naani hans paṛin."
+  ],
+  "en": [
+   "Nani lives in Lahore.",
+   "We live in London.",
+   "Today Nani phoned.",
+   "I said: Assalam o alaikum, Nani!",
+   "Nani laughed."
+  ],
+  "words": [
+   [
+    "نانی",
+    "naani",
+    "grandmother (mother's mother)"
+   ],
+   [
+    "رہتی",
+    "rehti",
+    "lives"
+   ],
+   [
+    "فون",
+    "phone",
+    "phone"
+   ],
+   [
+    "کہا",
+    "kaha",
+    "said"
+   ],
+   [
+    "ہنس",
+    "hans",
+    "laugh"
+   ]
+  ],
+  "q": [
+   [
+    "نانی کہاں رہتی ہیں؟",
+    "Where does Nani live?"
+   ],
+   [
+    "آپ نے نانی سے کیا کہا؟",
+    "What did you say to Nani?"
+   ]
+  ]
+ },
+ {
+  "id": "patang",
+  "level": 2,
+  "e": "🪁",
+  "title": "نیلی پتنگ",
+  "titleEn": "The blue kite",
+  "ur": [
+   "احمد کے پاس ایک نیلی پتنگ تھی۔",
+   "وہ اپنے ابو کے ساتھ چھت پر گیا۔",
+   "ہوا تیز چل رہی تھی۔",
+   "پتنگ اونچی اڑنے لگی۔",
+   "احمد نے کہا: ابو، دیکھیں! میری پتنگ بادلوں تک پہنچ گئی۔"
+  ],
+  "ro": [
+   "Ahmed ke paas aik neeli patang thi.",
+   "Woh apne abbu ke saath chhat par gaya.",
+   "Hawa tez chal rahi thi.",
+   "Patang oonchi uṛne lagi.",
+   "Ahmed ne kaha: Abbu, dekhein! Meri patang baadalon tak pohanch gayi."
+  ],
+  "en": [
+   "Ahmed had a blue kite.",
+   "He went up to the roof with his dad.",
+   "The wind was blowing hard.",
+   "The kite began to fly high.",
+   "Ahmed said: Dad, look! My kite has reached the clouds."
+  ],
+  "words": [
+   [
+    "نیلی",
+    "neeli",
+    "blue"
+   ],
+   [
+    "چھت",
+    "chhat",
+    "roof"
+   ],
+   [
+    "ہوا",
+    "hawa",
+    "wind"
+   ],
+   [
+    "اونچی",
+    "oonchi",
+    "high"
+   ],
+   [
+    "بادل",
+    "baadal",
+    "cloud"
+   ]
+  ],
+  "q": [
+   [
+    "پتنگ کس رنگ کی تھی؟",
+    "What colour was the kite?"
+   ],
+   [
+    "احمد کس کے ساتھ چھت پر گیا؟",
+    "Who did Ahmed go to the roof with?"
+   ]
+  ]
+ },
+ {
+  "id": "eid",
+  "level": 2,
+  "e": "🌙",
+  "title": "عید کا دن",
+  "titleEn": "Eid day",
+  "ur": [
+   "آج عید ہے۔",
+   "فاطمہ نے نئے کپڑے پہنے۔",
+   "سب نے ایک دوسرے کو عید مبارک کہا۔",
+   "دادی نے فاطمہ کو عیدی دی۔",
+   "شام کو سب نے مل کر سویاں کھائیں۔"
+  ],
+  "ro": [
+   "Aaj Eid hai.",
+   "Fatima ne naye kapṛe pehne.",
+   "Sab ne aik doosre ko Eid Mubarak kaha.",
+   "Daadi ne Fatima ko eidi di.",
+   "Shaam ko sab ne mil kar sewaiyaan khaayin."
+  ],
+  "en": [
+   "Today is Eid.",
+   "Fatima wore new clothes.",
+   "Everyone said Eid Mubarak to each other.",
+   "Grandma gave Fatima eidi money.",
+   "In the evening everyone ate sewaiyan together."
+  ],
+  "words": [
+   [
+    "عید",
+    "eid",
+    "Eid"
+   ],
+   [
+    "کپڑے",
+    "kapṛe",
+    "clothes"
+   ],
+   [
+    "مبارک",
+    "mubarak",
+    "blessed, congratulations"
+   ],
+   [
+    "عیدی",
+    "eidi",
+    "Eid gift money"
+   ],
+   [
+    "سویاں",
+    "sewaiyaan",
+    "sweet vermicelli"
+   ]
+  ],
+  "q": [
+   [
+    "فاطمہ نے کیا پہنا؟",
+    "What did Fatima wear?"
+   ],
+   [
+    "دادی نے فاطمہ کو کیا دیا؟",
+    "What did Grandma give Fatima?"
+   ]
+  ]
+ },
+ {
+  "id": "barf",
+  "level": 2,
+  "e": "❄️",
+  "title": "برف کا دن",
+  "titleEn": "Snow day",
+  "ur": [
+   "صبح اٹھ کر زینب نے کھڑکی سے باہر دیکھا۔",
+   "ہر طرف سفید برف تھی۔",
+   "آج اسکول بند تھا۔",
+   "زینب اور اس کے بھائی نے برف کا آدمی بنایا۔",
+   "پھر دونوں نے گرم چائے پی۔"
+  ],
+  "ro": [
+   "Subah uth kar Zainab ne khiṛki se baahar dekha.",
+   "Har taraf safaid barf thi.",
+   "Aaj school band tha.",
+   "Zainab aur us ke bhaai ne barf ka aadmi banaaya.",
+   "Phir donon ne garam chaaye pi."
+  ],
+  "en": [
+   "In the morning Zainab looked out of the window.",
+   "There was white snow everywhere.",
+   "School was closed today.",
+   "Zainab and her brother made a snowman.",
+   "Then they both drank hot tea."
+  ],
+  "words": [
+   [
+    "صبح",
+    "subah",
+    "morning"
+   ],
+   [
+    "کھڑکی",
+    "khiṛki",
+    "window"
+   ],
+   [
+    "برف",
+    "barf",
+    "snow, ice"
+   ],
+   [
+    "بند",
+    "band",
+    "closed"
+   ],
+   [
+    "گرم",
+    "garam",
+    "hot"
+   ]
+  ],
+  "q": [
+   [
+    "باہر ہر طرف کیا تھا؟",
+    "What was everywhere outside?"
+   ],
+   [
+    "دونوں نے کیا بنایا؟",
+    "What did they both make?"
+   ]
+  ]
+ },
+ {
+  "id": "pyasa-kawwa",
+  "level": 2,
+  "e": "🐦",
+  "title": "پیاسا کوا",
+  "titleEn": "The thirsty crow",
+  "ur": [
+   "گرمی کا دن تھا۔ ایک کوا بہت پیاسا تھا۔",
+   "اسے ایک گھڑا نظر آیا۔",
+   "گھڑے میں پانی بہت کم تھا۔",
+   "کوے نے گھڑے میں ایک ایک کر کے کنکر ڈالے۔",
+   "پانی اوپر آ گیا اور کوے نے پانی پی لیا۔"
+  ],
+  "ro": [
+   "Garmi ka din tha. Aik kawwa bohat pyaasa tha.",
+   "Use aik ghaṛa nazar aaya.",
+   "Ghaṛe mein paani bohat kam tha.",
+   "Kawwe ne ghaṛe mein aik aik kar ke kankar daale.",
+   "Paani oopar aa gaya aur kawwe ne paani pi liya."
+  ],
+  "en": [
+   "It was a hot day. A crow was very thirsty.",
+   "He saw a clay pot.",
+   "There was very little water in the pot.",
+   "The crow dropped pebbles into the pot one by one.",
+   "The water came up and the crow drank it."
+  ],
+  "words": [
+   [
+    "پیاسا",
+    "pyaasa",
+    "thirsty"
+   ],
+   [
+    "کوا",
+    "kawwa",
+    "crow"
+   ],
+   [
+    "گھڑا",
+    "ghaṛa",
+    "clay water pot"
+   ],
+   [
+    "کنکر",
+    "kankar",
+    "pebble"
+   ],
+   [
+    "کم",
+    "kam",
+    "little, less"
+   ]
+  ],
+  "q": [
+   [
+    "کوے کو کیا نظر آیا؟",
+    "What did the crow see?"
+   ],
+   [
+    "کوے نے گھڑے میں کیا ڈالا؟",
+    "What did the crow put in the pot?"
+   ]
+  ]
+ },
+ {
+  "id": "park",
+  "level": 2,
+  "e": "🛝",
+  "title": "پارک میں",
+  "titleEn": "At the park",
+  "ur": [
+   "اتوار کو ہم پارک گئے۔",
+   "پارک میں بہت سے بچے کھیل رہے تھے۔",
+   "میں نے جھولا جھولا۔",
+   "میری بہن نے بطخوں کو روٹی ڈالی۔",
+   "گھر واپس آ کر ہم بہت تھک گئے تھے۔"
+  ],
+  "ro": [
+   "Itwaar ko hum park gaye.",
+   "Park mein bohat se bachche khel rahe the.",
+   "Main ne jhoola jhoola.",
+   "Meri behan ne batakhon ko roti daali.",
+   "Ghar waapas aa kar hum bohat thak gaye the."
+  ],
+  "en": [
+   "On Sunday we went to the park.",
+   "Many children were playing in the park.",
+   "I went on the swing.",
+   "My sister fed bread to the ducks.",
+   "When we got home we were very tired."
+  ],
+  "words": [
+   [
+    "اتوار",
+    "itwaar",
+    "Sunday"
+   ],
+   [
+    "بچے",
+    "bachche",
+    "children"
+   ],
+   [
+    "جھولا",
+    "jhoola",
+    "swing"
+   ],
+   [
+    "بہن",
+    "behan",
+    "sister"
+   ],
+   [
+    "تھک",
+    "thak",
+    "tired"
+   ]
+  ],
+  "q": [
+   [
+    "ہم پارک کب گئے؟",
+    "When did we go to the park?"
+   ],
+   [
+    "بہن نے بطخوں کو کیا ڈالا؟",
+    "What did the sister give the ducks?"
+   ]
+  ]
+ },
+ {
+  "id": "sher-chooha",
+  "level": 3,
+  "e": "🦁",
+  "title": "شیر اور چوہا",
+  "titleEn": "The lion and the mouse",
+  "ur": [
+   "ایک دن جنگل میں ایک شیر سو رہا تھا۔ ایک چھوٹا سا چوہا اس کے اوپر دوڑنے لگا۔",
+   "شیر جاگ گیا اور اس نے چوہے کو پکڑ لیا۔",
+   "چوہے نے کہا: مجھے چھوڑ دیں، میں کبھی آپ کی مدد کروں گا۔ شیر ہنسا اور اسے چھوڑ دیا۔",
+   "کچھ دن بعد شیر ایک شکاری کے جال میں پھنس گیا۔",
+   "چوہا آیا، اس نے اپنے تیز دانتوں سے جال کاٹ دیا اور شیر آزاد ہو گیا۔"
+  ],
+  "ro": [
+   "Aik din jangal mein aik sher so raha tha. Aik chhota sa chooha us ke oopar dauṛne laga.",
+   "Sher jaag gaya aur us ne choohe ko pakaṛ liya.",
+   "Choohe ne kaha: Mujhe chhoṛ dein, main kabhi aap ki madad karoon ga. Sher hansa aur use chhoṛ diya.",
+   "Kuchh din baad sher aik shikaari ke jaal mein phans gaya.",
+   "Chooha aaya, us ne apne tez daanton se jaal kaat diya aur sher aazaad ho gaya."
+  ],
+  "en": [
+   "One day a lion was sleeping in the forest. A little mouse began running over him.",
+   "The lion woke up and caught the mouse.",
+   "The mouse said: Let me go, one day I will help you. The lion laughed and let him go.",
+   "A few days later the lion was caught in a hunter's net.",
+   "The mouse came, cut the net with his sharp teeth, and the lion was free."
+  ],
+  "words": [
+   [
+    "جنگل",
+    "jangal",
+    "forest"
+   ],
+   [
+    "چوہا",
+    "chooha",
+    "mouse"
+   ],
+   [
+    "مدد",
+    "madad",
+    "help"
+   ],
+   [
+    "جال",
+    "jaal",
+    "net"
+   ],
+   [
+    "آزاد",
+    "aazaad",
+    "free"
+   ]
+  ],
+  "q": [
+   [
+    "شیر کہاں پھنس گیا؟",
+    "Where was the lion caught?"
+   ],
+   [
+    "اس کہانی سے ہمیں کیا سبق ملتا ہے؟",
+    "What does this story teach us?"
+   ]
+  ]
+ },
+ {
+  "id": "sachcha-bachcha",
+  "level": 3,
+  "e": "💰",
+  "title": "سچا لڑکا",
+  "titleEn": "The honest boy",
+  "ur": [
+   "اسکول سے واپسی پر عمر کو راستے میں ایک بٹوا ملا۔",
+   "بٹوے میں پیسے اور ایک کارڈ تھا جس پر ایک دکان کا پتا لکھا تھا۔",
+   "عمر کا دل چاہا کہ وہ پیسوں سے کھلونا خرید لے، مگر اس نے سوچا کہ یہ ٹھیک نہیں۔",
+   "وہ اپنے ابو کے ساتھ اس دکان پر گیا اور بٹوا دکان دار کو واپس کر دیا۔",
+   "دکان دار بہت خوش ہوا اور بولا: بیٹا، تم بہت ایمان دار ہو۔"
+  ],
+  "ro": [
+   "School se waapsi par Umar ko raaste mein aik batwa mila.",
+   "Batwe mein paise aur aik card tha jis par aik dukaan ka pata likha tha.",
+   "Umar ka dil chaaha ke woh paison se khilona khareed le, magar us ne socha ke yeh theek nahin.",
+   "Woh apne abbu ke saath us dukaan par gaya aur batwa dukaandaar ko waapas kar diya.",
+   "Dukaandaar bohat khush hua aur bola: Beta, tum bohat imaandaar ho."
+  ],
+  "en": [
+   "On the way home from school, Umar found a wallet on the road.",
+   "In the wallet was money and a card with a shop's address on it.",
+   "Umar wanted to buy a toy with the money, but he thought that would not be right.",
+   "He went to that shop with his dad and gave the wallet back to the shopkeeper.",
+   "The shopkeeper was very happy and said: Son, you are very honest."
+  ],
+  "words": [
+   [
+    "راستہ",
+    "raasta",
+    "road, way"
+   ],
+   [
+    "بٹوا",
+    "batwa",
+    "wallet"
+   ],
+   [
+    "کھلونا",
+    "khilona",
+    "toy"
+   ],
+   [
+    "دکان دار",
+    "dukaandaar",
+    "shopkeeper"
+   ],
+   [
+    "ایمان دار",
+    "imaandaar",
+    "honest"
+   ]
+  ],
+  "q": [
+   [
+    "عمر کو راستے میں کیا ملا؟",
+    "What did Umar find on the road?"
+   ],
+   [
+    "عمر نے بٹوا کس کو واپس کیا؟",
+    "Who did Umar give the wallet back to?"
+   ]
+  ]
+ },
+ {
+  "id": "chaand-safar",
+  "level": 3,
+  "e": "🚀",
+  "title": "چاند کا سفر",
+  "titleEn": "A trip to the moon",
+  "ur": [
+   "رات کو حمزہ نے آسمان پر گول چاند دیکھا۔",
+   "اس نے امی سے پوچھا: کیا کوئی چاند پر جا سکتا ہے؟",
+   "امی نے بتایا کہ کچھ لوگ راکٹ میں بیٹھ کر چاند پر جا چکے ہیں۔",
+   "حمزہ نے سوچا کہ وہ بڑا ہو کر خلا باز بنے گا۔",
+   "اس رات اس نے خواب میں دیکھا کہ وہ چاند پر کھڑا زمین کو ہاتھ ہلا رہا ہے۔"
+  ],
+  "ro": [
+   "Raat ko Hamza ne aasmaan par gol chaand dekha.",
+   "Us ne ammi se poochha: Kya koi chaand par ja sakta hai?",
+   "Ammi ne bataaya ke kuchh log rocket mein baith kar chaand par ja chuke hain.",
+   "Hamza ne socha ke woh baṛa ho kar khala baaz banega.",
+   "Us raat us ne khwaab mein dekha ke woh chaand par khaṛa zameen ko haath hila raha hai."
+  ],
+  "en": [
+   "At night Hamza saw a round moon in the sky.",
+   "He asked his mum: Can anyone go to the moon?",
+   "Mum told him that some people have gone to the moon in a rocket.",
+   "Hamza decided that when he grows up he will be an astronaut.",
+   "That night he dreamt he was standing on the moon, waving at the earth."
+  ],
+  "words": [
+   [
+    "آسمان",
+    "aasmaan",
+    "sky"
+   ],
+   [
+    "گول",
+    "gol",
+    "round"
+   ],
+   [
+    "راکٹ",
+    "rocket",
+    "rocket"
+   ],
+   [
+    "خلا باز",
+    "khala baaz",
+    "astronaut"
+   ],
+   [
+    "خواب",
+    "khwaab",
+    "dream"
+   ]
+  ],
+  "q": [
+   [
+    "حمزہ نے آسمان پر کیا دیکھا؟",
+    "What did Hamza see in the sky?"
+   ],
+   [
+    "حمزہ بڑا ہو کر کیا بننا چاہتا ہے؟",
+    "What does Hamza want to be when he grows up?"
+   ]
+  ]
+ }
+]

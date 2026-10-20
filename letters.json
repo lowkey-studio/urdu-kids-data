@@ -1,0 +1,1050 @@
+[
+ {
+  "letter": "ا",
+  "name": "alif",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ا"
+   },
+   {
+    "position": "end",
+    "text": "‍ا"
+   }
+  ],
+  "word": {
+   "urdu": "انڈا",
+   "roman": "anda",
+   "english": "egg",
+   "emoji": "🥚",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ب",
+  "name": "bay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ب"
+   },
+   {
+    "position": "start",
+    "text": "ب‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ب‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ب"
+   }
+  ],
+  "word": {
+   "urdu": "بلی",
+   "roman": "billi",
+   "english": "cat",
+   "emoji": "🐈",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "پ",
+  "name": "pay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "پ"
+   },
+   {
+    "position": "start",
+    "text": "پ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍پ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍پ"
+   }
+  ],
+  "word": {
+   "urdu": "پتنگ",
+   "roman": "patang",
+   "english": "kite",
+   "emoji": "🪁",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ت",
+  "name": "tay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ت"
+   },
+   {
+    "position": "start",
+    "text": "ت‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ت‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ت"
+   }
+  ],
+  "word": {
+   "urdu": "تتلی",
+   "roman": "titli",
+   "english": "butterfly",
+   "emoji": "🦋",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ٹ",
+  "name": "ttay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ٹ"
+   },
+   {
+    "position": "start",
+    "text": "ٹ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ٹ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ٹ"
+   }
+  ],
+  "word": {
+   "urdu": "ٹماٹر",
+   "roman": "tamatar",
+   "english": "tomato",
+   "emoji": "🍅",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ث",
+  "name": "say",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ث"
+   },
+   {
+    "position": "start",
+    "text": "ث‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ث‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ث"
+   }
+  ],
+  "word": {
+   "urdu": "ثمر",
+   "roman": "samar",
+   "english": "fruit",
+   "emoji": "🍒",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ج",
+  "name": "jeem",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ج"
+   },
+   {
+    "position": "start",
+    "text": "ج‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ج‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ج"
+   }
+  ],
+  "word": {
+   "urdu": "جہاز",
+   "roman": "jahaz",
+   "english": "aeroplane",
+   "emoji": "✈️",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "چ",
+  "name": "chay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "چ"
+   },
+   {
+    "position": "start",
+    "text": "چ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍چ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍چ"
+   }
+  ],
+  "word": {
+   "urdu": "چڑیا",
+   "roman": "chirya",
+   "english": "sparrow",
+   "emoji": "🐦",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ح",
+  "name": "baṛi hay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ح"
+   },
+   {
+    "position": "start",
+    "text": "ح‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ح‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ح"
+   }
+  ],
+  "word": {
+   "urdu": "حلوہ",
+   "roman": "halwa",
+   "english": "sweet halwa",
+   "emoji": "🍮",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "خ",
+  "name": "khay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "خ"
+   },
+   {
+    "position": "start",
+    "text": "خ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍خ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍خ"
+   }
+  ],
+  "word": {
+   "urdu": "خرگوش",
+   "roman": "khargosh",
+   "english": "rabbit",
+   "emoji": "🐇",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "د",
+  "name": "daal",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "د"
+   },
+   {
+    "position": "end",
+    "text": "‍د"
+   }
+  ],
+  "word": {
+   "urdu": "دروازہ",
+   "roman": "darwaza",
+   "english": "door",
+   "emoji": "🚪",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ڈ",
+  "name": "ddaal",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ڈ"
+   },
+   {
+    "position": "end",
+    "text": "‍ڈ"
+   }
+  ],
+  "word": {
+   "urdu": "ڈھول",
+   "roman": "dhol",
+   "english": "drum",
+   "emoji": "🥁",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ذ",
+  "name": "zaal",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ذ"
+   },
+   {
+    "position": "end",
+    "text": "‍ذ"
+   }
+  ],
+  "word": {
+   "urdu": "ذہین",
+   "roman": "zaheen",
+   "english": "clever",
+   "emoji": "🧠",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ر",
+  "name": "ray",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ر"
+   },
+   {
+    "position": "end",
+    "text": "‍ر"
+   }
+  ],
+  "word": {
+   "urdu": "ریل",
+   "roman": "rail",
+   "english": "train",
+   "emoji": "🚂",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ڑ",
+  "name": "rray",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ڑ"
+   },
+   {
+    "position": "end",
+    "text": "‍ڑ"
+   }
+  ],
+  "word": {
+   "urdu": "پہاڑ",
+   "roman": "pahaar",
+   "english": "mountain",
+   "emoji": "⛰️",
+   "letter_position": "end"
+  }
+ },
+ {
+  "letter": "ز",
+  "name": "zay",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ز"
+   },
+   {
+    "position": "end",
+    "text": "‍ز"
+   }
+  ],
+  "word": {
+   "urdu": "زرافہ",
+   "roman": "zarafa",
+   "english": "giraffe",
+   "emoji": "🦒",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ژ",
+  "name": "zhay",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ژ"
+   },
+   {
+    "position": "end",
+    "text": "‍ژ"
+   }
+  ],
+  "word": {
+   "urdu": "ژالہ",
+   "roman": "zhaala",
+   "english": "hail",
+   "emoji": "🌨️",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "س",
+  "name": "seen",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "س"
+   },
+   {
+    "position": "start",
+    "text": "س‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍س‍"
+   },
+   {
+    "position": "end",
+    "text": "‍س"
+   }
+  ],
+  "word": {
+   "urdu": "سیب",
+   "roman": "saib",
+   "english": "apple",
+   "emoji": "🍎",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ش",
+  "name": "sheen",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ش"
+   },
+   {
+    "position": "start",
+    "text": "ش‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ش‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ش"
+   }
+  ],
+  "word": {
+   "urdu": "شیر",
+   "roman": "sher",
+   "english": "lion",
+   "emoji": "🦁",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ص",
+  "name": "suad",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ص"
+   },
+   {
+    "position": "start",
+    "text": "ص‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ص‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ص"
+   }
+  ],
+  "word": {
+   "urdu": "صابن",
+   "roman": "sabun",
+   "english": "soap",
+   "emoji": "🧼",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ض",
+  "name": "zuad",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ض"
+   },
+   {
+    "position": "start",
+    "text": "ض‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ض‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ض"
+   }
+  ],
+  "word": {
+   "urdu": "ضعیف",
+   "roman": "zaeef",
+   "english": "old, weak",
+   "emoji": "👴",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ط",
+  "name": "toay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ط"
+   },
+   {
+    "position": "start",
+    "text": "ط‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ط‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ط"
+   }
+  ],
+  "word": {
+   "urdu": "طوطا",
+   "roman": "tota",
+   "english": "parrot",
+   "emoji": "🦜",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ظ",
+  "name": "zoay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ظ"
+   },
+   {
+    "position": "start",
+    "text": "ظ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ظ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ظ"
+   }
+  ],
+  "word": {
+   "urdu": "ظروف",
+   "roman": "zuroof",
+   "english": "dishes",
+   "emoji": "🍽️",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ع",
+  "name": "ain",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ع"
+   },
+   {
+    "position": "start",
+    "text": "ع‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ع‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ع"
+   }
+  ],
+  "word": {
+   "urdu": "عینک",
+   "roman": "ainak",
+   "english": "glasses",
+   "emoji": "👓",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "غ",
+  "name": "ghain",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "غ"
+   },
+   {
+    "position": "start",
+    "text": "غ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍غ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍غ"
+   }
+  ],
+  "word": {
+   "urdu": "غبارہ",
+   "roman": "ghubaara",
+   "english": "balloon",
+   "emoji": "🎈",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ف",
+  "name": "fay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ف"
+   },
+   {
+    "position": "start",
+    "text": "ف‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ف‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ف"
+   }
+  ],
+  "word": {
+   "urdu": "فاختہ",
+   "roman": "faakhta",
+   "english": "dove",
+   "emoji": "🕊️",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ق",
+  "name": "qaaf",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ق"
+   },
+   {
+    "position": "start",
+    "text": "ق‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ق‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ق"
+   }
+  ],
+  "word": {
+   "urdu": "قلم",
+   "roman": "qalam",
+   "english": "pen",
+   "emoji": "🖊️",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ک",
+  "name": "kaaf",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ک"
+   },
+   {
+    "position": "start",
+    "text": "ک‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ک‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ک"
+   }
+  ],
+  "word": {
+   "urdu": "کتاب",
+   "roman": "kitaab",
+   "english": "book",
+   "emoji": "📖",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "گ",
+  "name": "gaaf",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "گ"
+   },
+   {
+    "position": "start",
+    "text": "گ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍گ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍گ"
+   }
+  ],
+  "word": {
+   "urdu": "گائے",
+   "roman": "gaaye",
+   "english": "cow",
+   "emoji": "🐄",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ل",
+  "name": "laam",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ل"
+   },
+   {
+    "position": "start",
+    "text": "ل‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ل‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ل"
+   }
+  ],
+  "word": {
+   "urdu": "لیموں",
+   "roman": "lemoon",
+   "english": "lemon",
+   "emoji": "🍋",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "م",
+  "name": "meem",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "م"
+   },
+   {
+    "position": "start",
+    "text": "م‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍م‍"
+   },
+   {
+    "position": "end",
+    "text": "‍م"
+   }
+  ],
+  "word": {
+   "urdu": "مچھلی",
+   "roman": "machhli",
+   "english": "fish",
+   "emoji": "🐟",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ن",
+  "name": "noon",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ن"
+   },
+   {
+    "position": "start",
+    "text": "ن‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ن‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ن"
+   }
+  ],
+  "word": {
+   "urdu": "ناشپاتی",
+   "roman": "naashpaati",
+   "english": "pear",
+   "emoji": "🍐",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "و",
+  "name": "wao",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "و"
+   },
+   {
+    "position": "end",
+    "text": "‍و"
+   }
+  ],
+  "word": {
+   "urdu": "وقت",
+   "roman": "waqt",
+   "english": "time",
+   "emoji": "⏰",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ہ",
+  "name": "chhoti hay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ہ"
+   },
+   {
+    "position": "start",
+    "text": "ہ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ہ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ہ"
+   }
+  ],
+  "word": {
+   "urdu": "ہاتھی",
+   "roman": "haathi",
+   "english": "elephant",
+   "emoji": "🐘",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ھ",
+  "name": "do-chashmi hay",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ھ"
+   },
+   {
+    "position": "start",
+    "text": "ھ‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ھ‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ھ"
+   }
+  ],
+  "word": {
+   "urdu": "بھالو",
+   "roman": "bhaalu",
+   "english": "bear",
+   "emoji": "🐻",
+   "letter_position": "middle"
+  }
+ },
+ {
+  "letter": "ء",
+  "name": "hamza",
+  "joins": "does not join",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ء"
+   }
+  ],
+  "word": {
+   "urdu": "سوئی",
+   "roman": "sui",
+   "english": "needle",
+   "emoji": "🪡",
+   "letter_position": "middle"
+  }
+ },
+ {
+  "letter": "ی",
+  "name": "chhoti ye",
+  "joins": "both sides",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ی"
+   },
+   {
+    "position": "start",
+    "text": "ی‍"
+   },
+   {
+    "position": "middle",
+    "text": "‍ی‍"
+   },
+   {
+    "position": "end",
+    "text": "‍ی"
+   }
+  ],
+  "word": {
+   "urdu": "یاقوت",
+   "roman": "yaaqoot",
+   "english": "ruby",
+   "emoji": "💎",
+   "letter_position": "start"
+  }
+ },
+ {
+  "letter": "ے",
+  "name": "baṛi ye",
+  "joins": "right only (to the letter before it)",
+  "forms": [
+   {
+    "position": "alone",
+    "text": "ے"
+   },
+   {
+    "position": "end",
+    "text": "‍ے"
+   }
+  ],
+  "word": {
+   "urdu": "کیلے",
+   "roman": "kele",
+   "english": "bananas",
+   "emoji": "🍌",
+   "letter_position": "end"
+  }
+ }
+]

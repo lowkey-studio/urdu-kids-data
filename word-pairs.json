@@ -1,0 +1,344 @@
+{
+ "opposites": [
+  [
+   "دن",
+   "رات",
+   "din / raat",
+   "day / night"
+  ],
+  [
+   "اچھا",
+   "برا",
+   "achha / bura",
+   "good / bad"
+  ],
+  [
+   "بڑا",
+   "چھوٹا",
+   "baṛa / chhota",
+   "big / small"
+  ],
+  [
+   "اوپر",
+   "نیچے",
+   "oopar / neeche",
+   "up / down"
+  ],
+  [
+   "گرم",
+   "ٹھنڈا",
+   "garam / thanda",
+   "hot / cold"
+  ],
+  [
+   "سچ",
+   "جھوٹ",
+   "sach / jhoot",
+   "truth / lie"
+  ],
+  [
+   "آگے",
+   "پیچھے",
+   "aage / peechhe",
+   "front / back"
+  ],
+  [
+   "اندر",
+   "باہر",
+   "andar / baahar",
+   "in / out"
+  ],
+  [
+   "خوش",
+   "اداس",
+   "khush / udaas",
+   "happy / sad"
+  ],
+  [
+   "صبح",
+   "شام",
+   "subah / shaam",
+   "morning / evening"
+  ],
+  [
+   "امیر",
+   "غریب",
+   "ameer / ghareeb",
+   "rich / poor"
+  ],
+  [
+   "آسان",
+   "مشکل",
+   "aasaan / mushkil",
+   "easy / hard"
+  ],
+  [
+   "نیا",
+   "پرانا",
+   "naya / puraana",
+   "new / old"
+  ],
+  [
+   "موٹا",
+   "پتلا",
+   "mota / patla",
+   "thick / thin"
+  ],
+  [
+   "سفید",
+   "کالا",
+   "safaid / kaala",
+   "white / black"
+  ],
+  [
+   "میٹھا",
+   "کڑوا",
+   "meetha / kaṛwa",
+   "sweet / bitter"
+  ],
+  [
+   "جیت",
+   "ہار",
+   "jeet / haar",
+   "win / loss"
+  ],
+  [
+   "دوست",
+   "دشمن",
+   "dost / dushman",
+   "friend / enemy"
+  ],
+  [
+   "زمین",
+   "آسمان",
+   "zameen / aasmaan",
+   "earth / sky"
+  ],
+  [
+   "تیز",
+   "آہستہ",
+   "tez / aahista",
+   "fast / slow"
+  ]
+ ],
+ "singular_plural": [
+  [
+   "کتاب",
+   "کتابیں",
+   "kitaab / kitaabein",
+   "book / books"
+  ],
+  [
+   "لڑکا",
+   "لڑکے",
+   "laṛka / laṛke",
+   "boy / boys"
+  ],
+  [
+   "لڑکی",
+   "لڑکیاں",
+   "laṛki / laṛkiyaan",
+   "girl / girls"
+  ],
+  [
+   "کمرہ",
+   "کمرے",
+   "kamra / kamre",
+   "room / rooms"
+  ],
+  [
+   "گھوڑا",
+   "گھوڑے",
+   "ghoṛa / ghoṛe",
+   "horse / horses"
+  ],
+  [
+   "بکری",
+   "بکریاں",
+   "bakri / bakriyaan",
+   "goat / goats"
+  ],
+  [
+   "چڑیا",
+   "چڑیاں",
+   "chiṛiya / chiṛiyaan",
+   "sparrow / sparrows"
+  ],
+  [
+   "کرسی",
+   "کرسیاں",
+   "kursi / kursiyaan",
+   "chair / chairs"
+  ],
+  [
+   "بات",
+   "باتیں",
+   "baat / baatein",
+   "talk / talks"
+  ],
+  [
+   "رات",
+   "راتیں",
+   "raat / raatein",
+   "night / nights"
+  ],
+  [
+   "کیلا",
+   "کیلے",
+   "kela / kele",
+   "banana / bananas"
+  ],
+  [
+   "انڈا",
+   "انڈے",
+   "anda / ande",
+   "egg / eggs"
+  ],
+  [
+   "گڑیا",
+   "گڑیاں",
+   "guṛiya / guṛiyaan",
+   "doll / dolls"
+  ],
+  [
+   "کھڑکی",
+   "کھڑکیاں",
+   "khiṛki / khiṛkiyaan",
+   "window / windows"
+  ],
+  [
+   "بستہ",
+   "بستے",
+   "basta / baste",
+   "school bag / bags"
+  ],
+  [
+   "سبق",
+   "اسباق",
+   "sabaq / asbaaq",
+   "lesson / lessons"
+  ],
+  [
+   "خبر",
+   "اخبار",
+   "khabar / akhbaar",
+   "news item / news"
+  ]
+ ],
+ "masculine_feminine": [
+  [
+   "لڑکا",
+   "لڑکی",
+   "laṛka / laṛki",
+   "boy / girl"
+  ],
+  [
+   "مرغا",
+   "مرغی",
+   "murgha / murghi",
+   "rooster / hen"
+  ],
+  [
+   "گھوڑا",
+   "گھوڑی",
+   "ghoṛa / ghoṛi",
+   "horse / mare"
+  ],
+  [
+   "بکرا",
+   "بکری",
+   "bakra / bakri",
+   "billy goat / goat"
+  ],
+  [
+   "بیٹا",
+   "بیٹی",
+   "beta / beti",
+   "son / daughter"
+  ],
+  [
+   "بھائی",
+   "بہن",
+   "bhaai / behan",
+   "brother / sister"
+  ],
+  [
+   "باپ",
+   "ماں",
+   "baap / maan",
+   "father / mother"
+  ],
+  [
+   "دادا",
+   "دادی",
+   "daada / daadi",
+   "grandfather / grandmother (father's side)"
+  ],
+  [
+   "نانا",
+   "نانی",
+   "naana / naani",
+   "grandfather / grandmother (mother's side)"
+  ],
+  [
+   "چچا",
+   "چچی",
+   "chacha / chachi",
+   "uncle / aunt"
+  ],
+  [
+   "شیر",
+   "شیرنی",
+   "sher / sherni",
+   "lion / lioness"
+  ],
+  [
+   "مور",
+   "مورنی",
+   "mor / morni",
+   "peacock / peahen"
+  ],
+  [
+   "بادشاہ",
+   "ملکہ",
+   "baadshah / malika",
+   "king / queen"
+  ],
+  [
+   "ماموں",
+   "ممانی",
+   "maamoon / mumaani",
+   "uncle / aunt (mother's side)"
+  ],
+  [
+   "بیل",
+   "گائے",
+   "bail / gaaye",
+   "ox / cow"
+  ],
+  [
+   "استاد",
+   "استانی",
+   "ustaad / ustaani",
+   "teacher (m / f)"
+  ],
+  [
+   "دولہا",
+   "دلہن",
+   "dulha / dulhan",
+   "groom / bride"
+  ],
+  [
+   "ہاتھی",
+   "ہتھنی",
+   "haathi / hathni",
+   "elephant (m / f)"
+  ],
+  [
+   "اونٹ",
+   "اونٹنی",
+   "oont / oontni",
+   "camel (m / f)"
+  ]
+ ]
+}
